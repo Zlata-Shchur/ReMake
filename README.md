@@ -10,11 +10,11 @@
 ![image](https://github.com/user-attachments/assets/10c38683-4aec-4cdc-975a-c9a704d12e59)
 
 
-Диаграмма для модератора
+Диаграмма для модератора и гостя
 ![image](https://github.com/user-attachments/assets/2bfc3855-ca83-4a8f-82ff-65665d8645ab)
 
 
-Для гостя
+
 ![image](https://github.com/user-attachments/assets/9738c0c2-a848-45ad-aabd-667ef12d158f)
 
 ---
