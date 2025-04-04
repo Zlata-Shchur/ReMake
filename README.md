@@ -7,7 +7,7 @@
 Диаграмма для администратора сайта
 ![image](https://github.com/user-attachments/assets/10c38683-4aec-4cdc-975a-c9a704d12e59)
 
-
+---
 
 Диаграмма для модератора
 ![image](https://github.com/user-attachments/assets/2bfc3855-ca83-4a8f-82ff-65665d8645ab)
