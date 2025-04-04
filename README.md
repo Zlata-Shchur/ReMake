@@ -6,7 +6,8 @@
 
 ---
 
-![Логотип проекта](https://example.com/logo.png)
+![Логотип проекта](https://github.com/user-attachments/assets/a96ac64c-125a-4b99-88c8-2a3cf09dbb86)
+
 
 
 
