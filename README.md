@@ -37,6 +37,10 @@
 
 - [Предзаказ](https://github.com/user-attachments/assets/90fb9e79-5914-4a50-b385-c04aa21e5a97)
 
+### Диаграмма пути доставки
+
+- [Путь доставки](https://github.com/user-attachments/assets/80603517-d4c5-4052-9a43-b161be8cf979)
+
 
 ---
 
