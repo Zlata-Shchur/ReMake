@@ -33,6 +33,10 @@
 
 - [Гость](https://github.com/user-attachments/assets/967bf91e-4501-428e-93ab-70ca593ea528)
 
+### Диаграмма оформления предзаказа
+
+- [предзаказ](https://github.com/user-attachments/assets/90fb9e79-5914-4a50-b385-c04aa21e5a97)
+
 
 ---
 
