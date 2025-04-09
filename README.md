@@ -35,7 +35,7 @@
 
 ### Диаграмма оформления предзаказа
 
-- [предзаказ](https://github.com/user-attachments/assets/90fb9e79-5914-4a50-b385-c04aa21e5a97)
+- [Предзаказ](https://github.com/user-attachments/assets/90fb9e79-5914-4a50-b385-c04aa21e5a97)
 
 
 ---
